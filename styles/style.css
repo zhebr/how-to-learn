@@ -317,8 +317,8 @@
 }
 
 .footer__column_content_info {
-  display: flex; 
-  flex-direction: column; 
+  display: flex;
+  flex-direction: column;
 }
 
 .footer__column-heading {
@@ -330,8 +330,8 @@
 }
 
 .footer__column_content_social {
-  display: flex; 
-  flex-direction: column; 
+  display: flex;
+  flex-direction: column;
 }
 
 .footer__column-links {
